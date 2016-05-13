@@ -1,0 +1,31 @@
+{
+  "client": {
+    "name": "",
+    "lastname": "",
+    "email": "",
+    "address": "",
+    "age": 0,
+    "hasWork": false,
+    "isMarried": false,
+    "hasChild": false,
+    "married": {
+      "name": "",
+      "age": 0
+    }
+  },
+    "cars": [
+    {
+      "model": "",
+      "brand": "",
+      "year": 0,
+      "engine": "",
+      "doors": 0
+    }
+  ],
+  "quotation": {
+    "message": "Here will be the grid!!"
+  },
+  "thanks": {
+    "message": "You has finished the first Trainig for Core V2"
+  }
+}
